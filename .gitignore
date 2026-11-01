@@ -1,0 +1,27 @@
+# 视觉/音频素材 — 体积大或有版权，不入库，需自备
+assets/fonts/
+assets/bgm/
+assets/sfx/
+assets/sfx_*/
+assets/textfx/
+assets/cover/
+assets/voice/
+assets/burst/
+assets/caption_fx/
+
+# 本地配置与运行状态
+assets/config.json
+assets/_motion_mode_last.json
+assets/_bgm_last.json
+assets/_bgm_looped.*
+
+# 缓存与编译产物
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# 备份
+*.bak_*
+*.bak_pre_*
+_bak_*/

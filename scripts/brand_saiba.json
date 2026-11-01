@@ -1,0 +1,76 @@
+{
+ "brand": "赛霸",
+ "product": "复合维生素矿物质片",
+ "norm_map": {},
+ "workspace": "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b",
+ "shots": [
+  "/Volumes/陈灿会展/广告视频/分镜图库/小绿人/视频素材/视频_健身房训练多镜头_全身_16x9.mp4",
+  "/Volumes/陈灿会展/广告视频/分镜图库/小绿人/视频素材/训练_单杠引体向上镜01_中景.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_03.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_04.mp4",
+  "/Volumes/陈灿会展/广告视频/分镜图库/小绿人/视频素材/举铁_力竭瘫坐杠铃前_中景_AI动态.mp4",
+  "/Volumes/陈灿会展/广告视频/分镜图库/小绿人/视频素材/展示_逆重力营养粒子光柱_全身_AI动态.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_07.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_08.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_09.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_10.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_11.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_12.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_13.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_14.mp4",
+  "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/fakevid/clips/clip_15.mp4"
+ ],
+ "motions": {
+  "视频_健": "pan_left",
+  "训练_单": "zoom_in",
+  "举铁_力": "zoom_in",
+  "展示_逆": "pan_left",
+  "产品_两": "zoom_in",
+  "生活_深": "zoom_in",
+  "生活_忙": "zoom_in",
+  "收尾_比": "pan_left",
+  "讲课_米": "zoom_in",
+  "讲课_巨": "zoom_in",
+  "餐食_三": "zoom_in"
+ },
+ "sfx_scroll": "/Users/mac/.workbuddy/skills/koubo-ad-video/assets/sfx_banner/卷播滚动_突然加速到暂停_原版.mp3",
+ "sfx_dong": "/Users/mac/WorkBuddy/2026-10-05-09-33-49/jisuan_alan_video_261006/gen/定格咚_B_trim.mp3",
+ "sub_size": 58,
+ "sub_style": "cinema",
+ "sub_margin_v": 52,
+ "fx": {
+  "enabled": false
+ },
+ "opening_punch": true,
+ "opening_punch_sfx": true,
+ "transition": {
+  "mode": "fx",
+  "dur": 0.34,
+  "pulse": 0,
+  "start_fade": 0,
+  "default": "hblur",
+  "cuts": [
+   "hblur",
+   "wipeleft",
+   "hblur",
+   "dissolve",
+   "fadegrays",
+   "hblur",
+   "circleopen",
+   "hblur",
+   "hblur",
+   "hblur",
+   "fade",
+   "hblur",
+   "vertopen",
+   "hblur"
+  ]
+ },
+ "keywords": [],
+ "product_cards": [],
+ "cover": {
+  "src": "/Users/mac/WorkBuddy/2026-11-01-20-05-07/saiba_261101b/gen/产品_21种成分光球矩阵环绕瓶身_中景_16x9.png",
+  "dur": 0.1,
+  "fit": "blur"
+ }
+}
