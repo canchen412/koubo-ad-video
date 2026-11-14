@@ -1,0 +1,19 @@
+# 忽略本地产物与二进制素材
+__pycache__/
+*.pyc
+*.bak*
+.cache/
+qc/
+out/
+*.mp4
+*.mov
+*.MP4
+*.wav
+*.mp3
+*.ttc
+*.otf
+*.ttf
+*.png
+*.jpg
+*.jpeg
+.DS_Store

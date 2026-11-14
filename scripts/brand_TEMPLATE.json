@@ -1,0 +1,38 @@
+{
+  "_README": "品类/款型配置模板。复制成 brand_<品类>.json 后改字段即可；pipeline_run.py / build_ad_video.py 用它驱动整条流水线。所有路径请换成你自己的绝对路径。",
+  "brand": "<品牌名>",
+  "product": "<产品名>",
+  "opening": "标准",
+  "norm_map": {},
+  "workspace": "/Users/yourname/WorkBuddy/<会话目录>/<工程目录>",
+  "cards_dir": "cards",
+  "shots": [],
+  "hero_label": "<产品名>",
+  "hero_label_top": 80,
+  "hero_label_size": 180,
+  "motions": {
+    "wide": "pan_left",
+    "mid": "zoom_in",
+    "clos": "zoom_in"
+  },
+  "sub_size": 58,
+  "sub_style": "cinema",
+  "disclaimer": true,
+  "fx": {
+    "enabled": true
+  },
+  "opening_punch": false,
+  "opening_burst": false,
+  "transition": {
+    "mode": "fx",
+    "dur": 0.34,
+    "default": "hblur",
+    "fxLead": 0.6
+  },
+  "sub_margin_v": 52,
+  "master_q": 53,
+  "cover_fill": "blur",
+  "cover_frame": "/path/to/封面底图.jpg",
+  "cover_rect": "1080:1440:0:0",
+  "cover_dur": 0.9
+}
